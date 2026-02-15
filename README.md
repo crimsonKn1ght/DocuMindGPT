@@ -1,7 +1,5 @@
 # DocuMindGPT
 
-DocuMindGPT is a document-grounded Q&A CLI that uses RAG (Retrieval-Augmented Generation) to answer questions based on your PDFs or text files. It features a built-in evaluation agent that scores answers for hallucinations and relevance.
-
 <p align="center">
   <a href="https://github.com/crimsonKn1ght/DocuMindGPT/stargazers">
     <img src="https://img.shields.io/github/stars/crimsonKn1ght/DocuMindGPT?style=for-the-badge" alt="GitHub stars">
@@ -16,6 +14,8 @@ DocuMindGPT is a document-grounded Q&A CLI that uses RAG (Retrieval-Augmented Ge
     <img src="https://img.shields.io/github/languages/top/crimsonKn1ght/DocuMindGPT?style=for-the-badge" alt="Language">
   </a>
 </p>
+
+DocuMindGPT is a document-grounded Q&A CLI that uses RAG (Retrieval-Augmented Generation) to answer questions based on your PDFs or text files. It features a built-in evaluation agent that scores answers for hallucinations and relevance.
 
 ## Features
 
