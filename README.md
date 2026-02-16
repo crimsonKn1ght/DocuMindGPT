@@ -17,6 +17,11 @@
 
 DocuMindGPT is a document-grounded Q&A CLI that uses RAG (Retrieval-Augmented Generation) to answer questions based on your PDFs or text files. It features a built-in evaluation agent that scores answers for hallucinations and relevance.
 
+## Flowchart
+
+<img width="3882" height="8192" alt="flowchart" src="https://github.com/user-attachments/assets/9b75be38-fe67-4fc4-9bde-3bf36ae758c6" />
+
+
 ## Features
 
 * **Ingestion**: Chunk, embed, and store documents in Supabase (pgvector).
