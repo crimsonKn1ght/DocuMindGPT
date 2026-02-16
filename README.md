@@ -19,8 +19,7 @@ DocuMindGPT is a document-grounded Q&A CLI that uses RAG (Retrieval-Augmented Ge
 
 ## Flowchart
 
-<img width="3882" height="8192" alt="flowchart" src="https://github.com/user-attachments/assets/9b75be38-fe67-4fc4-9bde-3bf36ae758c6" />
-
+<img width="3971" height="8192" alt="Gemini Agent Workflow for-2026-02-16-122545" src="https://github.com/user-attachments/assets/66ee879b-b086-4434-b613-79a5fa7a2f08" />
 
 ## Features
 
